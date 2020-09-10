@@ -4,7 +4,7 @@
 
 ## Hi, I am Ayesha Ali
 ### Second year software engineering student at Monash University
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on MEAN stack and data visualisation
 - 🌱 I’m currently learning coding Microbit, Flutter and ML
