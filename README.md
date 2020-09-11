@@ -10,5 +10,5 @@
 - 🌱 I’m currently learning coding Microbit, Flutter and ML
 - 👯 I’m looking to collaborate on **ANYTHING**
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: **The first computer programmer was a woman**
+- ⚡ Fun fact: **I love Times Square**
 
