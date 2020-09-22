@@ -6,9 +6,9 @@
 ### Second year software engineering student at Monash University
 
 
-- 🔭 I’m currently working on MEAN stack and data visualisation
+- 🔭 I’m currently working on website development and data visualisation
 - 🌱 I’m currently learning coding Microbit, Flutter and ML
 - 👯 I’m looking to collaborate on **ANYTHING**
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: **I love Times Square**
+
 
