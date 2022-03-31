@@ -3,7 +3,7 @@
 
 
 ## Hi, I am Ayesha Ali
-### Third year software engineering student at Monash University
+### Fourth year software engineering student at Monash University
 
 
 - 🔭 I’m currently working on website development and data visualisation
