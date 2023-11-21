@@ -3,11 +3,11 @@
 
 
 ## Hi, I am Ayesha Ali
-### Fourth year software engineering student at Monash University
+### Graduate software engineering student from Monash University
 
 
 - 🔭 I’m currently working on website development and data visualisation
-- 🌱 I’m currently learning coding Microbit, Flutter and ML
+- 🌱 I’m currently learning coding in React.JS 
 - 👯 I’m looking to collaborate on **ANYTHING**
 - 😄 Pronouns: She/Her
 
