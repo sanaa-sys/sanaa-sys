@@ -6,9 +6,9 @@
 ### Graduate software engineering student from Monash University
 
 
-- 🔭 I’m currently working on website development and data visualisation
-- 🌱 I’m currently learning coding in React.JS 
+- 🔭 I’m currently working as a front-end developer with React, TypeScript and jQuery
+- 🌱 I’m currently learning to build AI Applications 
 - 👯 I’m looking to collaborate on **ANYTHING**
-- 😄 Pronouns: She/Her
+- 😄 Student of Knowledge
 
 
